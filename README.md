@@ -3,6 +3,7 @@
 ## Terminal
 
 - [Mac Terminal Shortcuts](terminal/shortcuts.md)
+- [Terminal Basic Commands](terminal/basic_commands.md)
 
 ## Vim
 

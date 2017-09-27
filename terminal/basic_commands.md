@@ -1,4 +1,4 @@
-# Basci Commands
+# Basic Commands
 
 ### CORE COMMANDS
 
