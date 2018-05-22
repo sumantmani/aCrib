@@ -1,6 +1,8 @@
 set nocompatible              " required
 " filetype off                  " required
 
+set number			" show line number
+
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
